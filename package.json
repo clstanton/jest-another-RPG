@@ -1,0 +1,24 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "object-oriented programming & test-driven development",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clstanton/jest-another-RPG.git"
+  },
+  "keywords": [
+    "object",
+    "test",
+    "RPG"
+  ],
+  "author": "clstanton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clstanton/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/clstanton/jest-another-RPG#readme"
+}
